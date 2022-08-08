@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tableau-Homework-Citi-Bike-Analytics
 
 ## Data Selection and Clean Up
@@ -19,6 +19,7 @@ There were some limitations of the dataset used, which limited the number of vis
 
 ## Dashboard Analysis
 ### Dynamic Map
+
 A map over New York City was generated showing the total usage figures of ride start stations over the four selected months in 2021. This can be broken down by month, and shows that the most popular stations do not vary greatly throughout the year.
 
 ### Usage Dashboard
@@ -37,6 +38,4 @@ This dashboard outlines the most and least popular start stations for Citi Bike 
 We can see that while the 10 most popular start stations do not vary month to month (or season to season), the total usage of each station, and their place in the top 10 does change. 
 
 There are some dummy stations within the bottom 10 that are used by staff, and as a result the bottom 10 stations listed do not truly represent the 10 least popular stations with in the Citi Bike NY City program. 
-=======
-# Tableau-Homework---Citi-Bike-Analytics
->>>>>>> b26cc5dd47808b0dc58fc79437680c3345fcb413
+
